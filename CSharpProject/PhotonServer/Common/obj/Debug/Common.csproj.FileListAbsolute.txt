@@ -1,0 +1,6 @@
+G:\c#Projects\PhotonServer\Common\bin\Debug\Common.dll
+G:\c#Projects\PhotonServer\Common\bin\Debug\Common.pdb
+G:\c#Projects\PhotonServer\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+G:\c#Projects\PhotonServer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\c#Projects\PhotonServer\Common\obj\Debug\Common.dll
+G:\c#Projects\PhotonServer\Common\obj\Debug\Common.pdb
